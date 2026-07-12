@@ -19,7 +19,7 @@ Run an **independent verifier** and record the score + which tool produced it. W
 deliberately accept more than one tool, because a verification you can only get from
 a single vendor's tool isn't independent:
 
-- [LLMprobe](https://github.com/cocodot2026/LLMprobe) — 6 probes (identity,
+- [cocodot-llmprobe](https://github.com/cocodot2026/cocodot-llmprobe) — 6 probes (identity,
   capability via LLM-judge, latency, context, rate-limit, consistency), 0–100.
 - [LLMprobe-engine](https://github.com/Bazaarlinkorg/LLMprobe-engine) — 36 probes /
   8 dimensions, behavior-vector classifier.

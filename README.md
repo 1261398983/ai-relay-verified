@@ -45,7 +45,7 @@ Two open tools, both re-runnable by anyone (see [METHODOLOGY.md](METHODOLOGY.md)
    reachable? which models? latency? streaming?
 2. **No-downgrade** — a 0–100 score from independent verifiers. Use whichever you
    trust; we list more than one on purpose:
-   - [LLMprobe](https://github.com/cocodot2026/LLMprobe) (this toolkit)
+   - [cocodot-llmprobe](https://github.com/cocodot2026/cocodot-llmprobe) (this toolkit)
    - [LLMprobe-engine](https://github.com/Bazaarlinkorg/LLMprobe-engine) (independent)
    - [llm-probe](https://github.com/telagod/llm-probe) (independent)
 
