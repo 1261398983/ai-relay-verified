@@ -1,0 +1,33 @@
+{
+  "_note": "Machine-readable registry for the AI API Relay — Verified directory. Scores are 0-100 with a source tag; 'awaiting' means no reproducible test submitted yet (untested, not untrustworthy). Reproduce any score via METHODOLOGY.md. PRs welcome (CONTRIBUTING.md).",
+  "relays": [
+    {
+      "name": "OpenRouter",
+      "url": "https://openrouter.ai",
+      "payment": ["card", "crypto"],
+      "models": "300+",
+      "compat": ["openai"],
+      "verifiable": true,
+      "score": null,
+      "score_source": "awaiting",
+      "model_tested": null,
+      "date": null,
+      "evidence": null,
+      "notes": "Awaiting an independent verification run."
+    },
+    {
+      "name": "cocodot",
+      "url": "https://cocodot.co",
+      "payment": ["alipay", "cny"],
+      "models": "Claude / GPT / Gemini / DeepSeek",
+      "compat": ["openai", "anthropic"],
+      "verifiable": true,
+      "score": 87,
+      "score_source": "vendor self-report",
+      "model_tested": "Claude (Opus tier)",
+      "date": "2026-07",
+      "evidence": "METHODOLOGY.md",
+      "notes": "DISCLOSED: maintained by this repo's author. Self-reported via LLMprobe — reproduce before trusting. Listed on equal terms, not ranked above unverified peers."
+    }
+  ]
+}
