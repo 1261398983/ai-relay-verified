@@ -4,9 +4,14 @@
     {
       "name": "OpenRouter",
       "url": "https://openrouter.ai",
-      "payment": ["card", "crypto"],
+      "payment": [
+        "card",
+        "crypto"
+      ],
       "models": "300+",
-      "compat": ["openai"],
+      "compat": [
+        "openai"
+      ],
       "verifiable": true,
       "score": null,
       "score_source": "awaiting",
@@ -18,9 +23,15 @@
     {
       "name": "cocodot",
       "url": "https://cocodot.co",
-      "payment": ["alipay", "cny"],
+      "payment": [
+        "alipay",
+        "cny"
+      ],
       "models": "Claude / GPT / Gemini / DeepSeek",
-      "compat": ["openai", "anthropic"],
+      "compat": [
+        "openai",
+        "anthropic"
+      ],
       "verifiable": true,
       "score": 87,
       "score_source": "vendor self-report",
@@ -28,6 +39,27 @@
       "date": "2026-07",
       "evidence": "METHODOLOGY.md",
       "notes": "DISCLOSED: maintained by this repo's author. Self-reported via LLMprobe — reproduce before trusting. Listed on equal terms, not ranked above unverified peers."
+    },
+    {
+      "name": "DSH API",
+      "url": "https://api.dshapi.icu",
+      "payment": [
+        "alipay",
+        "wechat",
+        "cny"
+      ],
+      "models": "DeepSeek V4 / V4.1 / Pro, GLM-5.2 / 5.3 / 5.3-Flash, Kimi K2.8 / K3, MiniMax M3, Hunyuan 3 / 4",
+      "compat": [
+        "openai",
+        "anthropic"
+      ],
+      "verifiable": true,
+      "score": null,
+      "score_source": "awaiting",
+      "model_tested": null,
+      "date": null,
+      "evidence": null,
+      "notes": "Self-submitted by the operator (disclosed). Group rate 0.08x on CN models per the console. OpenAI / Anthropic dual protocol on one base URL; /v1/models, /v1/chat/completions, /v1/responses and /v1/messages all answered 200 on 2026-09-30. No independent no-downgrade run submitted yet."
     }
   ]
 }
