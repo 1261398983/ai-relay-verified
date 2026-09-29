@@ -30,6 +30,7 @@ self-reports are labeled as such; reproduce them before trusting.
 |---|---|---|---|---|---|---|
 | [OpenRouter](https://openrouter.ai) | card / crypto | 300+ | OpenAI | yes | ⏳ awaiting | — |
 | [cocodot](https://cocodot.co) | Alipay/CNY | Claude/GPT/Gemini/DeepSeek | OpenAI + Anthropic | yes | **87** · vendor self-report ⚠️ | [method](METHODOLOGY.md) |
+| [DSH API](https://api.dshapi.icu) | Alipay/WeChat (CNY) | DeepSeek V4 / GLM-5.3 / Kimi K3 / MiniMax M3 / Hunyuan | OpenAI + Anthropic | yes | ⏳ awaiting | operator self-report — no independent run yet |
 | _your relay_ | … | … | … | … | submit a result → | [how](CONTRIBUTING.md) |
 
 ⚠️ **cocodot is maintained by this repo's author** (disclosed). Its score is a
