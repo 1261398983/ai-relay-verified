@@ -3,9 +3,9 @@
 
 > ### 🔗 本站作者自用的中转站
 >
-> **[RELAY X](https://api.97wl.cc/)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
+> **[RELAY X](https://api.97wl.cc/register)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
 > 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
-> [[CC] 改两行环境变量即可接入 →](https://api.97wl.cc/)
+> [[CC] 改两行环境变量即可接入 →](https://api.97wl.cc/register)
 
 
 **Which AI API relays actually serve the model you pay for? A directory that ranks
@@ -81,7 +81,7 @@ MIT (code) · CC0 (the registry data).
 
 ### 关于本站作者使用的中转站
 
-本站整理的中转站里，我长期自用的是 **[RELAY X](https://api.97wl.cc/)**：
+本站整理的中转站里，我长期自用的是 **[RELAY X](https://api.97wl.cc/register)**：
 
 - **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
 - **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
@@ -99,5 +99,5 @@ MIT (code) · CC0 (the registry data).
 
 [公益站大全](https://1261398983.github.io/ai-relay/) · [公益站聚合](https://1261398983.github.io/ai-welfare-hub/) · [中转站推荐](https://1261398983.github.io/ai-api-relay-recommendations/) · [中文 AI 工具](https://1261398983.github.io/awesome-chinese-ai-tools/) · [API 中转清单](https://1261398983.github.io/awesome-ai-api-relay/)
 
-**[RELAY X 中转站](https://api.97wl.cc/)** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
+**[RELAY X 中转站](https://api.97wl.cc/register)** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
 
