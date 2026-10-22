@@ -1,5 +1,5 @@
-﻿title: RELAY X · ai-relay-verified
-description: RELAY X reverse-engineering API gateway plus a curated directory of AI API relays.
+﻿title: RELAY X · 逆向工程 | 中转站验真目录
+description: RELAY X 逆向工程 API 网关。哪个中转站真的在给你付钱的那个模型？覆盖 DeepSeek / Claude / GPT / Gemini 的验真目录。
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
