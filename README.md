@@ -93,3 +93,11 @@ MIT (code) · CC0 (the registry data).
 
 > 说明：个人部署的第三方 API 转发服务，非上游厂商官方产品。建议按实际用量充值，避免一次性大额预付；重要业务请自备备份线路。
 
+---
+
+### 同类站点
+
+[公益站大全](https://1261398983.github.io/ai-relay/) · [公益站聚合](https://1261398983.github.io/ai-welfare-hub/) · [中转站推荐](https://1261398983.github.io/ai-api-relay-recommendations/) · [中文 AI 工具](https://1261398983.github.io/awesome-chinese-ai-tools/) · [API 中转清单](https://1261398983.github.io/awesome-ai-api-relay/)
+
+**[RELAY X 中转站](https://api.97wl.cc/)** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
+
